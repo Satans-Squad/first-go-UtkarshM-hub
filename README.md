@@ -14,4 +14,5 @@ Checkout your Pixel at [My Pixel](https://open-pixel.vercel.app/).
 We want to make sure that this project is welcoming to as many people as possible. By interacting with the project in any shape or form you are agreeing to the project's [Code of Conduct.](https://github.com/UtkarshM-hub/Open_Pixel/blob/main/CODE_OF_CONDUCT.md)
 
 If you feel like another individual has violated the code of conduct, please raise a complaint to [utmandape4@gmail.com](mailto:utmandape4@gmail.com).
+Thanks
 
